@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/login"
+    android:background="@drawable/background"
     tools:context=".MainActivity">
 
     <TextView
@@ -80,7 +80,7 @@
         android:layout_above="@id/socialicons"
         android:text="or sign in with"
         android:layout_centerHorizontal="true"
-        android:textSize="15dp"
+        android:textSize="15dp"/>
 
     <LinearLayout
         android:layout_width="match_parent"
